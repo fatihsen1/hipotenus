@@ -1,0 +1,2 @@
+# hipotenus
+patika ödev 
